@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShopLite.Inventory/ShopLite.Inventory.csproj" />
+  </Folder>
 </Solution>
