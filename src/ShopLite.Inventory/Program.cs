@@ -177,6 +177,7 @@ public class Program
         if (results.Count == 0)
         {
             Console.WriteLine("No matching products found.");
+             Console.WriteLine("Done.");
             return;
         }
 
